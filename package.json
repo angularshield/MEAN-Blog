@@ -1,0 +1,24 @@
+{
+  "name": "mean-blog",
+  "version": "1.0.0",
+  "description": "MEAN Stack Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angularshield/MEAN-Blog.git"
+  },
+  "author": "Hamza Chaouki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angularshield/MEAN-Blog/issues"
+  },
+  "homepage": "https://github.com/angularshield/MEAN-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
